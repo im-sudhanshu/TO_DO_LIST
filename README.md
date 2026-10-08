@@ -26,7 +26,7 @@ A responsive task manager built with vanilla HTML, CSS, and JavaScript. Tasks ar
 ## Project Structure
 
 ```
-CODSOFT_TASK0R2/
+TO_DO_LIST/
 ├── index.html
 ├── style.css
 ├── script.js
@@ -39,7 +39,7 @@ CODSOFT_TASK0R2/
 ```bash
    git clone <your-repo-url>
 ```
-2. Open the `CODSOFT_TASK02` folder.
+2. Open the `TO_DO_LIST` folder.
 3. Open `index.html` in any modern browser (or use VS Code Live Server).
 
 No installation or build step is required.
@@ -57,4 +57,4 @@ No installation or build step is required.
 Final-year B.Tech CSE (AI & ML), Khwaja Moinuddin Chishti Language University
 LinkedIn: <https://www.linkedin.com/in/sudhanshu-singh-6816642a6/>
 
-#codsoft #internship #webdevelopment
+#codsoft #internship #webdevelopment #frontend
