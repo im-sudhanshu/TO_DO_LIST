@@ -26,7 +26,7 @@ A responsive task manager built with vanilla HTML, CSS, and JavaScript. Tasks ar
 ## Project Structure
 
 ```
-CODSOFT_TASK02/
+CODSOFT_TASK0R2/
 ├── index.html
 ├── style.css
 ├── script.js
